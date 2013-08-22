@@ -1,0 +1,18 @@
+/* =================
+Header
+====================*/
+#header-bottom {
+	height: 20px;
+}
+#header-top-right {
+	padding-top: 0;
+}
+#header-top {
+	background: #e8f1f2;
+}
+
+#header-top a:link, 
+#header-top a:visited, 
+#header-top li a.active {
+	color: #000;
+}
